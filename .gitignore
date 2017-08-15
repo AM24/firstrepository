@@ -1,0 +1,4 @@
+*.dat 
+!a.dat
+*.txt
+results/
